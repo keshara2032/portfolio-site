@@ -1,0 +1,5 @@
+https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue
+https://blog.adafruit.com/2020/06/09/created-a-patient-monitoring-system-with-go-and-vue-in-3-days-kasvith/
+https://www.newsbreak.com/news/1580807686748/created-a-patient-monitoring-system-with-go-and-vue-in-3-days-kasvith
+https://zephyrnet.com/created-a-patient-monitoring-system-with-go-and-vue-in-3-days-kasvith/
+https://www.reddit.com/r/golang/comments/g7px4d/how_we_created_a_realtime_patient_monitoring/
